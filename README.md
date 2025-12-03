@@ -13,6 +13,10 @@ An AI-powered web application for musical structure analysis and visual mapping,
 - **Preference Learning**: System learns your preferences during the session
 - **Export Options**: Export as JSON, HTML, SVG, or bundled ZIP
 
+## Live Demo
+
+Try it now:https://smart-music-map-v03.vercel.app/
+
 ## Tech Stack
 
 - **Frontend**: Vue 3 + Vite
